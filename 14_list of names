@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>alphabetized list</h1>
+<ul>
+<li>farah<sub>3</sub></li>
+<li>zuhra<sub>10</sub></li>
+<li>maryam<sub>5</sub></li>
+<li>hajira<sub>4</sub></li>
+<li>roya<sub>8</sub></li>
+<li>bheshta<sub>2</sub></li>
+<li>nargis<sub>6</sub></li>
+<li>parwana<sub>7</sub></li>
+<li>sodaba<sub>9</sub></li>
+<li>alina<sub>1</sub></li>
+</ul>
+<hr>
+
+<h1>unalpahbetized list</h1>
+<ul>
+<li>alina<sub>1</sub></li>
+<li>bheshta<sub>2</sub></li>
+<li>farah<sub>3</sub></li>
+<li>hajira<sub>4</sub></li>
+<li>maryam<sub>5</sub></li>
+<li>nargis<sub>6</sub></li>
+<li>parwana<sub>7</sub></li>
+<li>roya<sub>8</sub></li>
+<li>sodaba<sub>9</sub></li>
+<li>zuhra<sub>10</sub></li>
+</ul>
+
+</body>
+</html>
